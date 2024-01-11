@@ -63,7 +63,7 @@
 
     <div id="middleSection">
         <button onclick="redirectToPage1()">文件小助手</button>
-        <button onclick="redirectToPage2()">图文小助手</button>
+        <button onclick="redirectToPage2()">图片小助手</button>
     </div>
 
     <div id="bottomSection">
@@ -82,4 +82,3 @@
 
 </body>
 </html>
-
