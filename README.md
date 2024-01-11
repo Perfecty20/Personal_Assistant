@@ -1,5 +1,5 @@
 <!-- 添加这一行启用HTML5验证 -->
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
